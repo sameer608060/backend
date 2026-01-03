@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A backend project",
+  "homepage": "https://github.com/sameer608060/backend#readme",
+  "bugs": {
+    "url": "https://github.com/sameer608060/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer608060/backend.git"
+  },
+  "license": "ISC",
+  "author": "Aditya Adarsh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
